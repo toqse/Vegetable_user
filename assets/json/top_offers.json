@@ -1,0 +1,58 @@
+[
+    {
+        "offerid": 1,
+        "image": "assets/products/top_offers/top_offers_4.jpg",
+        "title": "Spices Items",
+        "offer": "From ₹199",
+        "subtitle": ""
+    },
+    {
+        "offerid": 2,
+        "image": "assets/products/top_offers/top_offers_2.jpg",
+        "title": "Oranges",
+        "offer": "Starting ₹199",
+        "subtitle": ""
+    },
+    {
+        "offerid": 3,
+        "image": "assets/products/top_offers/top_offers_3.jpg",
+        "title": "Fruits",
+        "offer": "Starting ₹199",
+        "subtitle": ""
+    },
+    {
+        "offerid": 4,
+        "image": "assets/products/top_offers/top_offers_4.jpg",
+        "title": "Cut Veggies",
+        "offer": "From ₹299 + 10% Off",
+        "subtitle": ""
+    },
+    {
+        "offerid": 5,
+        "image": "assets/products/top_offers/top_offers_5.jpg",
+        "title": "Poultry",
+        "offer": "Min 20% Off",
+        "subtitle": ""
+    },
+    {
+        "offerid": 6,
+        "image": "assets/products/top_offers/top_offers_6.jpg",
+        "title": "Carrots",
+        "offer": "Min 55% Off",
+        "subtitle": ""
+    },
+    {
+        "offerid": 7,
+        "image": "assets/products/top_offers/top_offers_7.jpg",
+        "title": "Tomatos",
+        "offer": "30-80% Off",
+        "subtitle": ""
+    },
+    {
+        "offerid": 8,
+        "image": "assets/products/top_offers/top_offers_8.jpg",
+        "title": "Potatos",
+        "offer": "Just ₹179",
+        "subtitle": ""
+    }
+]

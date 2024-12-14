@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "650487245806",
+    "project_id": "vegetableshop-479d4",
+    "storage_bucket": "vegetableshop-479d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650487245806:android:b6a45c6cbc3948f2fabcff",
+        "android_client_info": {
+          "package_name": "com.example.vegadmin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650487245806-bvgo95ftpqilfgo1ejp4q1enetbnfevi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegadmin1",
+            "certificate_hash": "170ffae063f6279a7aecb2009f31659fb9d7a9ca"
+          }
+        },
+        {
+          "client_id": "650487245806-0sgtoo3dr7u694q7kkh47i43tmk9ku8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHd4Hn-jEkjH9Y5RblMmwg92H2KyLVBFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650487245806-0sgtoo3dr7u694q7kkh47i43tmk9ku8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650487245806-357v1gubp7emv5pprbeldokdphks8gih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomApp2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650487245806:android:cb4aca03a578869bfabcff",
+        "android_client_info": {
+          "package_name": "com.toqse.ecomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650487245806-h3s4p39r763fcrevup7a4hducn4rfq7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toqse.ecomapp",
+            "certificate_hash": "170ffae063f6279a7aecb2009f31659fb9d7a9ca"
+          }
+        },
+        {
+          "client_id": "650487245806-0sgtoo3dr7u694q7kkh47i43tmk9ku8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHd4Hn-jEkjH9Y5RblMmwg92H2KyLVBFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650487245806-0sgtoo3dr7u694q7kkh47i43tmk9ku8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650487245806-357v1gubp7emv5pprbeldokdphks8gih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecomApp2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

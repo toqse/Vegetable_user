@@ -1,0 +1,42 @@
+[
+    {
+        "productId": 1,
+        "productImage": "assets/products/wedding_collection/wedding_collection_1.jpg",
+        "productTitle": "Black Papper",
+        "price": "549/kg",
+        "oldPrice": "1200",
+        "offer": "70% off"
+    },
+    {
+        "productId": 2,
+        "productImage": "assets/products/wedding_collection/wedding_collection_2.jpg",
+        "productTitle": "Elakkai",
+        "price": "549/kg",
+        "oldPrice": "1893",
+        "offer": "70% off"
+    },
+    {
+        "productId": 3,
+        "productImage": "assets/products/wedding_collection/wedding_collection_3.jpg",
+        "productTitle": "Chilli Powder",
+        "price": "799",
+        "oldPrice": "2599",
+        "offer": "69% off"
+    },
+    {
+        "productId": 4,
+        "productImage": "assets/products/wedding_collection/wedding_collection_4.jpg",
+        "productTitle": "Sambar Powder",
+        "price": "1348",
+        "oldPrice": "5499",
+        "offer": "75% off"
+    },
+    {
+        "productId": 5,
+        "productImage": "assets/products/wedding_collection/wedding_collection_5.jpg",
+        "productTitle": "Maliyella",
+        "price": "30",
+        "oldPrice": "100",
+        "offer": "76% off"
+    }
+]
